@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c4f0c8972e4f1415fad87f9944706580
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boots: {fileID: 11400000, guid: 6c152ccece58a4294845253af4ec5afa, type: 2}
+  - potion: {fileID: 11400000, guid: 6b68dc171961c46fc8a5d92452f8cb84, type: 2}
+  - bodyPart: {fileID: 11400000, guid: 75df76b545b8646c5bb7696534c0b608, type: 2}
+  - helmet: {fileID: 11400000, guid: 8655ca350b30349d79b89c5e34071814, type: 2}
+  - playerStats: {fileID: 11400000, guid: 3f052811ffe3341caa235bf9902a3ba6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
